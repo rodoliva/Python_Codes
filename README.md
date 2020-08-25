@@ -3,17 +3,26 @@ Simple and useful codes
 
 ## Table of Contents
 
-- [Password Code](#password code)
+- [Password](#password code)
 - [Translator](#translator)
 - [Web Server](#web server)
 - [email](#email)
 - [Undo and Redo](#undo and redo)
 
 
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Team](#team)
+- [FAQ](#faq)
+- [Support](#support)
+- [License](#license)
+
+
 ---
 ## Password Code
----
 
+Password related codes:
 
 ## Password Generator
 
@@ -32,8 +41,8 @@ Simple and useful codes
 
 ---
 ## email
----
 
+email related codes:
 
 ## email check
 
