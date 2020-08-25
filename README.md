@@ -17,12 +17,16 @@ Password related codes:
 
 <a href="https://github.com/rodoliva/Python_Codes/tree/master/Check%20Pass" target="_blank">**Password Generator**</a>
 
+Run on terminal:
+
 ```shell
 $ python3 PassGen.py
 $ gdz3p9PKiG
 ```
 
 <a href="https://github.com/rodoliva/Python_Codes/tree/master/Check%20Pass" target="_blank">**Check your password**</a>
+
+Run on terminal:
 
 ```shell
 $ python3 PassGen.py 1234 rdtgvfd
@@ -33,15 +37,22 @@ $ The password rdtgvfd was not found
 
 ---
 ## Translator
+<a href="https://github.com/rodoliva/Python_Codes/tree/master/Translator" target="_blank">## Translator</a>
 
+Enter the test to translate to Text.txt, run on terminal and the translate is in the Test-trans.txt file.
 
+```shell
+$ python3 Translator.py
+```
 
 ---
 ## Web
 
 Web related codes:
 
-**Web Server**
+<a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">## Portfolio</a>
+
+Run on terminal:
 
 ```shell
 $ export FLASK_APP=portfolio.py
