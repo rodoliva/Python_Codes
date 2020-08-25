@@ -15,11 +15,21 @@ Simple and useful codes
 
 Password related codes:
 
-**Password Generator**
+<a href="https://github.com/rodoliva/Python_Codes/tree/master/Check%20Pass" target="_blank">**Password Generator**</a>
 
- 
-**Check your password**
+```shell
+$ python3 PassGen.py
+$ gdz3p9PKiG
+```
 
+<a href="https://github.com/rodoliva/Python_Codes/tree/master/Check%20Pass" target="_blank">**Check your password**</a>
+
+```shell
+$ python3 PassGen.py 1234 rdtgvfd
+$ The password 1234 has been breached 1296186 times
+$ The password rdtgvfd was not found
+
+```
 
 ---
 ## Translator
