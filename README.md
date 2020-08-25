@@ -49,14 +49,13 @@ Web related codes:
 
 <a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Portfolio**</a>
 
-Ready to run web page implemented with python. Run on terminal.
+Ready to run web page implemented with python.
 
 First Install flask:
 ```shell
 $ sudo pip install Flask
 ```
-
-Or make a virtualenv <a href="<a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Portfolio**</a>" target="_blank">**Virtrualenv**</a>
+Or make a virtualenv <a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Virtrualenv**</a>" 
 
 And then to test run on terminal:
 ```shell
