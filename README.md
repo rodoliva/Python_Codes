@@ -12,6 +12,7 @@ Simple and useful codes
 
 ---
 ## Password Code
+---
 
 
 ## Password Generator
@@ -31,6 +32,7 @@ Simple and useful codes
 
 ---
 ## email
+---
 
 
 ## email check
