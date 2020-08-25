@@ -1,5 +1,6 @@
 # Author: Osazuwa Agbonze
-# Web Page: 
+# Web Page: https://dev.to/spaceofmiah/generating-random-password-in-python-practical-guide-amd
+# Git: https://github.com/spaceofmiah/py-password/tree/b7ef7eecb35e3a44795279eff31bf540724b0cfe
 
 import string
 import random
