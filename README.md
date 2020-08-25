@@ -3,14 +3,11 @@ Simple and useful codes
 
 ## Table of Contents
 
-- [Password Code](#Password Code)
-  - [Password Generator](#Password Generator)
-  - [Check your password](#Check your password)
-- [Translator](#Translator)
-- [Web Server](#Web Server)
+- [Password Code](#password code)
+- [Translator](#translator)
+- [Web Server](#web server)
 - [email](#email)
-  - [email check](#email check)
-- [Undo and Redo](#Undo and Redo)
+- [Undo and Redo](#undo and redo)
 
 
 ##Password Code
