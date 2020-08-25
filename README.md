@@ -13,7 +13,7 @@ Simple and useful codes
 - [Undo and Redo](#Undo and Redo)
 
 
-#Password Code
+##Password Code
 
 
 ##Password Generator
@@ -22,16 +22,16 @@ Simple and useful codes
 ##Check your password
 
 
-#Translator
+##Translator
 
 
-#Web Server
+##Web Server
 
 
-#email
+##email
 
 
 ##email check
 
 
-#Undo and Redo
+##Undo and Redo
