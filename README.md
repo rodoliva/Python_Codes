@@ -10,6 +10,7 @@ Simple and useful codes
 - [Undo and Redo](#undo and redo)
 
 
+---
 ##Password Code
 
 
@@ -19,16 +20,21 @@ Simple and useful codes
 ##Check your password
 
 
+---
 ##Translator
 
 
+
+---
 ##Web Server
 
 
+---
 ##email
 
 
 ##email check
 
 
+---
 ##Undo and Redo
