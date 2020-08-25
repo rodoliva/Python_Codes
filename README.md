@@ -11,30 +11,30 @@ Simple and useful codes
 
 
 ---
-##Password Code
+## Password Code
 
 
-##Password Generator
+## Password Generator
 
-
-##Check your password
-
-
----
-##Translator
-
+ 
+## Check your password
 
 
 ---
-##Web Server
+## Translator
 
-
----
-##email
-
-
-##email check
 
 
 ---
-##Undo and Redo
+## Web Server
+
+
+---
+## email
+
+
+## email check
+
+
+---
+## Undo and Redo
