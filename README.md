@@ -55,7 +55,7 @@ First Install flask:
 ```shell
 $ sudo pip install Flask
 ```
-Or make a virtualenv <a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Virtrualenv**</a> 
+Or make a virtualenv <a href="https://flask.palletsprojects.com/en/1.1.x/installation/" target="_blank">**Virtrualenv**</a> 
 
 And then to test run on terminal:
 ```shell
