@@ -37,7 +37,7 @@ $ The password rdtgvfd was not found
 
 ---
 ## Translator
-<a href="https://github.com/rodoliva/Python_Codes/tree/master/Translator" target="_blank">## Translator</a>
+<a href="https://github.com/rodoliva/Python_Codes/tree/master/Translator" target="_blank">**Translator**</a>
 
 Enter the test to translate to Text.txt, run on terminal and the translate is in the Test-trans.txt file.
 
@@ -50,7 +50,7 @@ $ python3 Translator.py
 
 Web related codes:
 
-<a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">## Portfolio</a>
+<a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Portfolio**</a>
 
 Run on terminal:
 
