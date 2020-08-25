@@ -1,4 +1,4 @@
-# OthersCodes
+# Python Codes
 Simple and useful codes
 
 ## Table of Contents
