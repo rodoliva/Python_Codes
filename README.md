@@ -3,24 +3,15 @@ Simple and useful codes
 
 ## Table of Contents
 
-- [Password](#password code)
+- [Password](#password)
 - [Translator](#translator)
-- [Web Server](#web server)
+- [Web](#web)
 - [email](#email)
-- [Undo and Redo](#undo and redo)
-
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
+- [Others](#others)
 
 
 ---
-## Password Code
+## Password
 
 Password related codes:
 
@@ -36,6 +27,10 @@ Password related codes:
 
 
 ---
+## Web
+
+Web related codes:
+
 ## Web Server
 
 
@@ -48,4 +43,7 @@ email related codes:
 
 
 ---
+## Others
+
+
 ## Undo and Redo
