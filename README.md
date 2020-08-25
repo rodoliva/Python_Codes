@@ -55,7 +55,7 @@ First Install flask:
 ```shell
 $ sudo pip install Flask
 ```
-Or make a virtualenv <a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Virtrualenv**</a>" 
+Or make a virtualenv <a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Virtrualenv**</a> 
 
 And then to test run on terminal:
 ```shell
@@ -64,6 +64,8 @@ $ export FLASK_ENV=development
 $ flask run
 ```
 > The messages received are stored in database.csv and data.txt
+
+Web Template: <a href="http://www.mashup-template.com/templates.html" target="_blank">Mashup Template</a> 
 
 ---
 ## email
