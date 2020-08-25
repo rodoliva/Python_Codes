@@ -50,4 +50,4 @@ email related codes:
 ---
 ## Others
 
-**Undo and Redo**(https://github.com/rodoliva/Undo_Redo_Manager)
+<a href="https://github.com/rodoliva/Undo_Redo_Manager" target="_blank">**Undo and Redo**</a>
