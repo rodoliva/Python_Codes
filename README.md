@@ -15,10 +15,10 @@ Simple and useful codes
 
 Password related codes:
 
-## Password Generator
+**Password Generator**
 
  
-## Check your password
+**Check your password**
 
 
 ---
@@ -31,7 +31,7 @@ Password related codes:
 
 Web related codes:
 
-## Web Server
+**Web Server**
 
 
 ---
@@ -39,11 +39,10 @@ Web related codes:
 
 email related codes:
 
-## email check
+**email check**
 
 
 ---
 ## Others
 
-
-## Undo and Redo
+**Undo and Redo**
