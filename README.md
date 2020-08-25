@@ -49,12 +49,22 @@ Web related codes:
 
 <a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Portfolio**</a>
 
-Run on terminal:
+Ready to run web page implemented with python. Run on terminal.
+
+First Install flask:
+```shell
+$ sudo pip install Flask
+```
+
+Or make a virtualenv <a href="<a href="https://github.com/rodoliva/Python_Codes/tree/master/Web%20Server" target="_blank">**Portfolio**</a>" target="_blank">**Virtrualenv**</a>
+
+And then to test run on terminal:
 ```shell
 $ export FLASK_APP=portfolio.py
 $ export FLASK_ENV=development
 $ flask run
 ```
+> The messages received are stored in database.csv and data.txt
 
 ---
 ## email
