@@ -33,6 +33,11 @@ Web related codes:
 
 **Web Server**
 
+```shell
+export FLASK_APP=portfolio.py
+export FLASK_ENV=development
+flask run
+```
 
 ---
 ## email
