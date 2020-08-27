@@ -76,7 +76,7 @@ email related codes:
 <a href="https://github.com/rodoliva/Python_Codes/tree/master/email" target="_blank">**email**</a>
 
 Change the email and password to check:
-```Python
+```python
 if __name__ == '__main__':
     email = "www.4444.333m@gtestmail.com"
     checkemail(email)
