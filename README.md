@@ -88,3 +88,5 @@ if __name__ == '__main__':
 ## Others
 
 <a href="https://github.com/rodoliva/Undo_Redo_Manager" target="_blank">**Undo and Redo**</a>
+
+- @rodoliva
